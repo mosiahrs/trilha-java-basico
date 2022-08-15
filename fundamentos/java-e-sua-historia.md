@@ -2,7 +2,7 @@
 
 Interessada em dispositivos eletrônicos inteligentes, a Sun Microsystems financiou uma pesquisa interna com o codinome Green em 1991. O projeto resultou no desenvolvimento de uma linguagem baseada em C e C++ que seu criador, James Gosling, chamou de Oak (carvalho) em homenagem a uma árvore que dava para a janela do seu escritório na Sun.
 
-![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
+![](<../assets/image (6) (1) (1) (1).png>)
 
 Descobriu-se mais tarde que já havia uma linguagem de computador chamada Oak. Quando uma equipe da Sun visitou uma cafeteria local, o nome Java (cidade de origem de um tipo de café importado) foi sugerido e pegou.
 
@@ -21,7 +21,7 @@ Um pouco mais da história sobre Java no canal do [Guanabara Curso em Vídeo](ht
 * Softwares destinados ao consumidor final.
 * Aplicativos para Smartphones.
 
-![Em 23 de janeiro de 2021 foi celebrado os 25 anos da linguagem Java hoje é mantida pela Oracle Inc.](<../.gitbook/assets/image (3).png>)
+![Em 23 de janeiro de 2021 foi celebrado os 25 anos da linguagem Java hoje é mantida pela Oracle Inc.](<../assets/image (3).png>)
 
 Características de cada versão
 
