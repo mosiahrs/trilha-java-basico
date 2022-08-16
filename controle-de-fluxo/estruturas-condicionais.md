@@ -6,7 +6,7 @@ A Estrutura Condicional possibilita a escolha de um grupo de ações e comportam
 
 Quando ocorre uma validação de execução de fluxo somente quando a condição for positiva, consideramos como uma estrutura **Simples**, exemplo:
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../assets/image (6) (1) (1).png>)
 
 ```java
 // CaixaEletronico.java
@@ -29,7 +29,7 @@ public class CaixaEletronico {
 
 Algumas vezes o nosso programa deverá seguir mais de uma jornada de execução condionado a uma regra de negócio, este cenário é demoninado **Estrutura Condicional Composta**. Vejamos o exemplo abaixo:
 
-![](../.gitbook/assets/if-else.png)
+![](../assets/if-else.png)
 
 ```java
 // ResultadoEscolar.java
@@ -55,7 +55,7 @@ Vale ressaltar aqui que no Java em uma condição**`if/else`** as vezes necessit
 
 Em um controle de fluxo condicional, nem sempre nos limitamos ao **se** (`if`) e **senão** (`else`), poderemos ter uma terceira, quarta e ou inúmeras condições.
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../assets/image (11) (1).png>)
 
 ```java
 // ResultadoEscolar.java
