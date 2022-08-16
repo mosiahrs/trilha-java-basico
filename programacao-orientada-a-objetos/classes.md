@@ -12,7 +12,7 @@ As classes existentes em nosso projeto serão composta por:&#x20;
 * **Comportamentos** _(behavior)_**:** Também conhecido como **ações** ou **métodos**, é toda parte comportamental que um objeto dispõe.
 * **Instanciar** _(new)_**:** É o ato de criar um objeto a partir de estrutura definida em uma classe. &#x20;
 
-![Ilustração de uma classe Estudente e 03 objetos criados](<../.gitbook/assets/image (9).png>)
+![Ilustração de uma classe Estudente e 03 objetos criados](<../assets/image (9).png>)
 
 Para ilustrar as etapas de desenvolvimento orientada a objetos em Java, iremos reproduzir a imagem acima em forma de código para explicar que primeiro criamos a estrutura correspondente para assim podermos cria-los com as características e possibilidade de realização de ações (comportamentos) como se fosse no "mundo real".
 
@@ -78,7 +78,7 @@ Seguindo algumas convenções, as nossas classes são classificadas como:
 * **Classe de controle (controller)**: classes que possuem a finalidade de disponibilizar alguma comunicação externa à nossa aplicação, tipo http web ou webservices.
 * **Classe utilitária (util)**:  classe que contém recursos comuns à toda nossa aplicação.
 
-![Modelo aplicado em grande parte dos projetos atuais](<../.gitbook/assets/image (7).png>)
+![Modelo aplicado em grande parte dos projetos atuais](<../assets/image (7).png>)
 
 {% hint style="success" %}
 Exercite a distribuição de classes por papéis dentro da sua aplicação para que se possa determinar a estrutura mais conveniente em cada arquivo do seu projeto.
