@@ -10,14 +10,14 @@ A escrita de códigos de um programa é feito através da composição de palavr
 
 **Sintaxe de declaração de uma nova classe:**
 
-![](<../.gitbook/assets/image (8) (1) (1).png>)
+![](<../assets/image (8) (1) (1).png>)
 
 * 99,9% das nossas classes iniciarão com `public class;`
 * Toda classe precisa de nome, exemplo `MinhaClasse;`
 * O nome do arquivo deve ser idêntico ao nome da classe pública;
 * Após o nome, definir o corpo `{ }` , onde iremos compor nossas classes com atributos e métodos.
 
-![](<../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
+![](<../assets/image (12) (1) (1) (1) (1).png>)
 
 * É de suma importância que agora você consiga se localizar dentro do conjunto de chaves `{ }` existentes em sua classe.
 * Dentro de uma aplicação, **recomenda-se que somente uma classe possua o método** `main`, responsável por iniciar todo o nosso programa.
@@ -120,7 +120,7 @@ Como parte da estrutura de declaração de variáveis e métodos também temos o
 
 Basicamente **indentar** é um termo utilizado para escrever o código do programa de forma hierárquica, facilitando assim a visualização e o entendimento do programa.
 
-![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
+![](<../assets/image (5) (1) (1) (1).png>)
 
 Abaixo, veja um exemplo de um algoritmo de validação de aprovação de estudante. Em uma aba, temos um código sem identação nenhuma, e na outra aba, temos o mesmo código seguindo um padrão de identação. Observe como é muito mais fácil entender a hierarquia do código na segunda aba.&#x20;
 
@@ -164,7 +164,7 @@ public class BoletimEstudantil {
 
 À medida que nosso sistema vai evoluindo, surgem novos arquivos (código fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos através de pacotes (packages).
 
-![Ilustração de uso de pacotes](<../.gitbook/assets/image (2).png>)
+![Ilustração de uso de pacotes](<../assets/image (2).png>)
 
 Com o uso de pacotes as nossas classes (.java) passam a possuir duas identificações, o nome simples e nome qualificado:
 
