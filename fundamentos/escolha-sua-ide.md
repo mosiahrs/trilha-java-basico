@@ -10,7 +10,7 @@ Para aumentar nossa produtividade, nós podemos escolher algumas ferramentas den
 
 Cada IDE dispõe de recursos comuns ou plugins específicos para te auxiliar na agilidade de desenvolvimento.
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../assets/image (8) (1).png>)
 
 {% hint style="success" %}
 Antes de escolhar sua IDE super recomendamos realizar uma pesquisa e ter uma experiência em cada uma delas.
@@ -47,7 +47,7 @@ Comparando-se em performance, o [VS Code](https://code.visualstudio.com/docs/lan
 
 Vamos explorar alguns principais recursos utilizando as IDEs, Eclipse, IntelliJ e VSCode.
 
-![Agora é mão-na-massa galera](../.gitbook/assets/mao-na-massa.gif)
+![Agora é mão-na-massa galera](../assets/mao-na-massa.gif)
 
 * O que são workspaces ?
 * Definir a JDK na IDE
