@@ -20,11 +20,11 @@ public class MinhaClasse {
 Observe que nosso projeto Java criado por um IDE, ele terá uma pasta chamada **bin**. É nesta pasta que ficarão os arquivos **.class**, o nosso `bytecode`.
 {% endhint %}
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../assets/image (15).png>)
 
 Mesmo usando uma IDE, nós sempre precisaremos identificar aonde se encontram as classes do nosso projeto, no meu caso está em: **C:\estudos\dio-trilha-java-basico\java-terminal.**
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../assets/image (6) (1).png>)
 
 ## Terminal
 
@@ -35,7 +35,7 @@ Vamos ilustrar como executar uma classe, depois de compilada, sem precisar usar 
 3. Acesse a pasta **** _bin_: ** `cd bin`**
 4. Agora digite o comando:**`java MinhaClasse` ** _(nome da sua classe sem a extensão .**class**)_&#x20;
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../assets/image (14).png>)
 
 ## Argumentos
 
@@ -66,9 +66,9 @@ public class AboutMe {
 
 **Passando valores aos argumentos pelo VsCode.**
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../assets/image (12).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../assets/image (8).png>)
 
 ```json
 {
