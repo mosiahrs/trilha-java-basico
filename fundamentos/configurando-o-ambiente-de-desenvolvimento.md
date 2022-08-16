@@ -23,7 +23,7 @@ Algumas IDEs como o [VSCode](https://code.visualstudio.com/docs/java/java-tutori
 
 * Após realizar o download, executar o instalador para instalar o Java no Windows. Este processo instalará tanto o **JDK** quanto a **JRE**.
 
-![](<../.gitbook/assets/image (12) (1) (1).png>)
+![](<../assets/image (12) (1) (1).png>)
 
 {% hint style="warning" %}
 Evite mudar o diretório de instalação
@@ -31,12 +31,12 @@ Evite mudar o diretório de instalação
 
 * Em seu explorer deve ter algo mais ou menos assim:
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../assets/image (1).png>)
 
 * Precisamos agora validar se a instalação também já configurou nossa variável de ambiente para poder executar o Java pelo Prompt de comando ou PowerShell do Windows.
 * Abre o Prompt de comando e execute o comando `java -version`.
 
-![](../.gitbook/assets/image.png)
+![](../assets/image.png)
 
 {% hint style="info" %}
 Não iremos configurar as variáveis de ambiente pois não é um pré-requisito para desenvolver em Java considerando que iremos usufruir das mais poderosas IDEs para aumentar nossa produtividade em codificar na linguagem.
